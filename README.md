@@ -19,4 +19,4 @@
 3. Runs in a loop until the user chooses to exit.
 
 ## Example Output
-![Screenshot](images/menu.png)
+![Screenshot](Image)
